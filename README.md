@@ -16,7 +16,7 @@
 1. **Склонируйте репозиторий**:  
    ```bash
    git clone https://github.com/vZidv/StringPlus.git
-   cd Cat-Grep-Clone/src/cat
+   cd StringPlus/src/
    ```
 2. **Соберите утилиты с помощью Make**:  
    ```bash
